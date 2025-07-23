@@ -1,0 +1,83 @@
+{
+  "Aging": {
+    "support": 5,
+    "maturity": [
+      "фундаментальная",
+      "фундаментальная",
+      "фундаментальная",
+      "фундаментальная",
+      "обзор"
+    ],
+    "sources": [
+      "статья",
+      "статья",
+      "статья",
+      "статья",
+      "патент"
+    ],
+    "titles": [
+      "<i>In Vivo</i> Identification and Spatial Distribution of Crown Gall Disease Biomarkers in Grapevine.",
+      "Werner syndrome due to homozygous WRN mutation through chromosome&#x2009;8 region of homozygosity in a consanguineous family.",
+      "YAP as a therapeutic target in esophageal squamous cell carcinoma: insights and strategies.",
+      "Compositional analysis of archaeological leather and simulated leather and their degradation research based on HRMS.",
+      "Telomerase activation method"
+    ]
+  },
+  "Эпигенетика": {
+    "support": 4,
+    "maturity": [
+      "клиническая",
+      "фундаментальная",
+      "фундаментальная",
+      "фундаментальная"
+    ],
+    "sources": [
+      "статья",
+      "статья",
+      "статья",
+      "статья"
+    ],
+    "titles": [
+      "GABA<sub>B</sub> receptor activation contributes to post-surgery cognitive impairments in mice by inducing hippocampal BDNF hypermethylation.",
+      "Sensory impairment and dementia risk among older adults in rural South Africa.",
+      "DeepSecMS Advances DIA-Based Selenoproteome Profiling Through Cys-to-Sec Proxy Training.",
+      "Differentiation Trajectory of Virus-Induced Tumour Cells in Rice Revealed by Single-Cell RNA Sequencing."
+    ]
+  },
+  "Сенесценция": {
+    "support": 1,
+    "maturity": [
+      "внедрение"
+    ],
+    "sources": [
+      "патент"
+    ],
+    "titles": [
+      "CRISPR-based gene editing for senescence reversal"
+    ]
+  },
+  "Метаболизм": {
+    "support": 1,
+    "maturity": [
+      "клиническая"
+    ],
+    "sources": [
+      "патент"
+    ],
+    "titles": [
+      "Mitochondrial rejuvenation compounds"
+    ]
+  },
+  "Теломеры": {
+    "support": 1,
+    "maturity": [
+      "обзор"
+    ],
+    "sources": [
+      "патент"
+    ],
+    "titles": [
+      "Telomerase activation method"
+    ]
+  }
+}

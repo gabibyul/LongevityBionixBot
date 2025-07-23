@@ -77,6 +77,6 @@ MIT License
 
 👤 Авторы и контакты
 Команда BIONIX
-ML-инженер, архитектура, LLM: Vakarenko Kristina-Gabriela
+ML-инженер, архитектура, LLM: Vakarenko Kristina-Gabriela @gabibyul
 Дата аналитик: Bekturdyev Adel
 Хакатон: AI x Longevity, июль 2025  

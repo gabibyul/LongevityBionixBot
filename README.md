@@ -106,6 +106,8 @@ MIT License
 
 **Команда BIONIX**
 
-* **ML-инженер, архитектура, LLM:** Vakarenko Kristina-Gabriela
-* **Дата-аналитик:** Bekturdyev Adel
+* **ML Engineer, Biomedical Engineer:** Vakarenko Kristina-Gabriela
+* **AI/ML Engineer, Chemoinformatician:** Sitnikov Anton
+* **Data Analyst:** Bekturdyev Adel
+* **ML Engineer:** Martsun Daniil
 * **Хакатон:** Agentic AI x Longevity, июль 2025

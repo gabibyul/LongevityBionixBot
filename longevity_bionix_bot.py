@@ -7,9 +7,9 @@ from openai import OpenAI
 from datetime import datetime
 
 # ==== Настройки токена и модели ====
-TELEGRAM_TOKEN = "7918970741:AAEk6UNuzfRk0zU4TLv_dn6Xh0I_F9lbLVg"
+TELEGRAM_TOKEN = "TOKEM"
 client = OpenAI(
-    base_url="http://80.209.242.40:8000/v1",
+    base_url="TOKEN",
     api_key="dummy-key"
 )
 

@@ -106,7 +106,7 @@ MIT License
 
 **Команда BIONIX**
 
-* **Python Developer, Biomedical Engineer:** Vakarenko Kristina-Gabriela
+* **Python Developer, Biomedical Engineer:** Vakarenko Kristina
 * **AI/ML Engineer, Chemoinformatician:** Sitnikov Anton
 * **Data Analyst:** Bekturdyev Adel
 * **ML Engineer:** Martsun Daniil
